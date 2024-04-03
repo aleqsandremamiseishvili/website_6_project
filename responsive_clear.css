@@ -1,0 +1,22 @@
+/*  media tags */
+
+
+
+/*  mobile ---  320 - 768    */
+@media screen and (min-width:320px) {
+
+}
+
+
+
+/*  tablet  ---  768 - 1200    */
+@media screen and (min-width:768px) {
+
+}
+
+
+
+/*  notebook/PCs  ---  1200+   */
+@media screen and (min-width:1200px) {
+   
+}
